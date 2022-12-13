@@ -1,12 +1,7 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# 🍸 Ilojo Bar
+![Ilojo Bar Mockup](https://github.com/JustinLung/lose-your-head-the-client-case/blob/main/docs/mockup.png?raw=true)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
-
-## Inhoudsopgave
-
+## 📚 Inhoudsopgave
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [Installatie](#installatie)
@@ -14,19 +9,42 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+## 📃 Beschrijving
+Dit is de repository, voor de Ilojo Bar SSG gemaakt met bulp van Sveltekit en Hygraph. Hierbij wordt de data statisch gegenereerd.
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+[🌐 Live](https://lose-your-head-the-client-case-iq3flgnp1-justinlung.vercel.app/)
 
-## Installatie
+## 🔮 Kenmerken
+* 📙 HTML
+* 📘 CSS
+* 🚀 Typescript
+* 🍊 Sveltekit
+* 📐 Hygraph
+* 🧦 GSAP
+* ⚛️ GraphQL
+* 🔼 Vercel
 
-## Gebruik
+## ⚡ Installatie & Gebruik
+```
+# Cloning the repository
+git clone git@github.com:JustinLung/lose-your-head-the-client-case.git
+
+# Moving to the folder
+cd lose-your-head-the-client-case
+
+# Install NPM packages
+npm install
+
+# Run local server
+npm run start
+```
 
 ## Bronnen
+- [Originele Website](https://lose-your-head-the-client-case.vercel.app/)
+- [Sveltekit](https://kit.svelte.dev/)
+- [Hygraph](https://hygraph.com/)
+- [GSAP](https://greensock.com/)
+- [Prototype van Jeany en Jorn](https://github.com/jornveltrop/ilojo-bar)
 
 ## Licentie
 
